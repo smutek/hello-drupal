@@ -14,3 +14,5 @@ global_styles:
   css:
     theme:
       css/styles.css: {}
+  js:
+    js/theme.js: {}
