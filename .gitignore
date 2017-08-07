@@ -25,3 +25,14 @@
 
 # Misc.
 .Ds_Store
+
+# Build
+node_modules
+bower_components
+
+# Keep compiled assets out of production
+# These are assets that presumably would be
+# generated on server during deployment
+/web/themes/custom/hellocog/css
+/web/themes/custom/hellocog/styleguide
+/web/themes/custom/hellocog/package-lock.json
