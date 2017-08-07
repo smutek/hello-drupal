@@ -5,3 +5,13 @@ global-styling:
       css/theme.css: {}
   js:
     js/theme.js: {}
+fontawesome:
+  version: 4.7.0
+  css:
+    component:
+      '//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css': {type: external}
+bootstrap:
+  version: 3.3.7
+  css:
+    component:
+      'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css': {type: external}

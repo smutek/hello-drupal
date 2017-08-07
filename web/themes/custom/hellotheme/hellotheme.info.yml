@@ -3,6 +3,8 @@ type: theme
 description: 'A hello world theme saying hello to the world.'
 core: 8.x
 libraries:
+  - hellotheme/fontawesome
+  - hellotheme/bootstrap
   - hellotheme/global-styling
 base theme: classy
 regions:
