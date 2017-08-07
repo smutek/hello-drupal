@@ -35,4 +35,3 @@ bower_components
 # generated on server during deployment
 /web/themes/custom/hellocog/css
 /web/themes/custom/hellocog/styleguide
-/web/themes/custom/hellocog/package-lock.json
