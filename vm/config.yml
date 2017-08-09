@@ -25,6 +25,8 @@ php_sendmail_path: "/usr/sbin/sendmail -t -i"
 installed_extras:
   - drush
   - varnish
+  - drupalconsole
+  - xdebug
 
 # Other secure defaults.
 dashboard_install_dir: ''
