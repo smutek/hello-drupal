@@ -1,0 +1,16 @@
+name: Magazine
+type: theme
+description: Testing
+package: MagazinePackage
+core: 8.x
+libraries:
+  - magazine/global-styling
+  - magazine/external
+ 
+base theme: classy
+#Using Classy as a base theme https://www.drupal.org/theme-guide/8/classy
+
+regions:
+  content: Content
+  panel: Panel
+  callout: Callout

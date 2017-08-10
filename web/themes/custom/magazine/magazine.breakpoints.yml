@@ -1,0 +1,6 @@
+magazine.tablet:
+  label: tablet
+  mediaQuery: '(min-width: 768px)'
+  weight: 1
+  multipliers:
+    - 1x

@@ -20,6 +20,8 @@ installed_extras:
   - drush
   - mailhog
   - varnish
+  - drupalconsole
+  - xdebug
 
 dashboard_install_dir: /var/www/dashboard
 extra_security_enabled: false
